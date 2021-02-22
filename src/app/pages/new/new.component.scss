@@ -1,0 +1,20 @@
+.mat-column-image {
+  img {
+    border-radius: 20%;
+    padding: 5px;
+  }
+}
+.container {
+  width: 100%;
+  //   padding: 0 50px;
+}
+table {
+  width: 100%;
+}
+
+tr:hover {
+  background: #d8d8d8 !important;
+}
+tr:nth-child(odd) {
+  background: whitesmoke;
+}
